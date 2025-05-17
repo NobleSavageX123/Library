@@ -2,7 +2,7 @@
 #include <string>
 using namespace std;
 
-int totalBooks = 100;
+const int totalBooks = 100;
 int bookIDs[totalBooks];
 string bookTitles[totalBooks];
 string bookAuthors[totalBooks];
